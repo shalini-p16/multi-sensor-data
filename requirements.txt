@@ -1,0 +1,5 @@
+flask~=2.2.2
+confluent_kafka~=2.2.0
+influxdb~=5.0.0
+requests~=2.31.0
+
