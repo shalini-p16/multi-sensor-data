@@ -1,7 +1,4 @@
-The project focuses on building a scalable system for collecting and processing differ-
-ent types of simulated data streamed from three IoT devices such as cars, heart rate
-sensors and thermostats, and store that in database using different measurements
-for each device.
+The project focuses on building a scalable system for collecting and processing different types of simulated data streamed from three IoT devices such as cars, heart rate, sensors and thermostats, and store that in database using different measurements for each device.
 
 Project Feature:
 Features of the Project
